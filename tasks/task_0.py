@@ -1,1 +1,1 @@
-print(...)  # допишите код
+print(str("\nHello, world!") * 10)
