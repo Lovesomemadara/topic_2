@@ -1,3 +1,3 @@
-name = "Ксантерра"
-age = 25
-print(f"Привет, {name}! " + f"Тебе уже {age} лет!")
+name: str = "Ксантерра"
+age: int = 25
+print(f"Привет, {name}! Тебе уже {age} лет!")
